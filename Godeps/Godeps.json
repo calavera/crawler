@@ -1,0 +1,49 @@
+{
+	"ImportPath": "github.com/calavera/crawler",
+	"GoVersion": "go1.4",
+	"Packages": [
+		"./cmd"
+	],
+	"Deps": [
+		{
+			"ImportPath": "code.google.com/p/cascadia",
+			"Comment": "null-31",
+			"Rev": "5d796540e3cb93ea0556c897e6a3c7690f614d35"
+		},
+		{
+			"ImportPath": "code.google.com/p/goprotobuf/proto",
+			"Comment": "go.r60-142",
+			"Rev": "556b9de4249f50f311584f75324a45e426324a19"
+		},
+		{
+			"ImportPath": "github.com/PuerkitoBio/fetchbot",
+			"Rev": "e4ab2e653fb7f4c543c07347cf374bdbd0909177"
+		},
+		{
+			"ImportPath": "github.com/PuerkitoBio/goquery",
+			"Comment": "v0.3.2-69-g4cf64c5",
+			"Rev": "4cf64c51f7e80d56d9ae2ffe7d684d3dd5dbd5d0"
+		},
+		{
+			"ImportPath": "github.com/apcera/nats",
+			"Comment": "v1.0.6-12-gc21e85f",
+			"Rev": "c21e85fde911de3a2098c1907b1316c04922dd01"
+		},
+		{
+			"ImportPath": "github.com/julienschmidt/httprouter",
+			"Rev": "00ce1c6a267162792c367acc43b1681a884e1872"
+		},
+		{
+			"ImportPath": "github.com/temoto/robotstxt.go",
+			"Rev": "c51489e759bca7dc60d42334436d7fc46b1e96cb"
+		},
+		{
+			"ImportPath": "github.com/tpjg/goriakpbc",
+			"Rev": "9bcb551b480f229c592dfeadcfd8e44b475967f8"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html",
+			"Rev": "cbcac7bb8415db9b6cb4d1ebab1dc9afbd688b97"
+		}
+	]
+}

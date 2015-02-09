@@ -1,0 +1,9 @@
+*.sublime-*
+.DS_Store
+*.swp
+*.swo
+#*.*#
+tags
+fetchbot.test
+example/full/full
+example/short/short
